@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src=".github/assets/clikd-logo.png" alt="Clikd Logo">
+  <img width="300" src=".github/assets/logo.svg" alt="Clikd Logo">
 </p>
 
 <h1 align="center">👋 Yo, We're Clikd – Level Up Your Gaming World! 🚀🎮</h1>
