@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/clikd-inc/.github/refs/heads/main/assets/logo.svg" alt="Clikd Logo">
+  <img width="300" src="https://raw.githubusercontent.com/clikd-inc/.github/refs/heads/main/assets/github-banner.webp" alt="Clikd Logo">
 </p>
 
 <h1 align="center">👋 ATTENTION DIGITAL HEROES! Clikd Has Stormed The Arena! 🚀🎮</h1>
